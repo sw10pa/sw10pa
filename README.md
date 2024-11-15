@@ -1,5 +1,5 @@
 <a href="https://github.com/RomaLetodiani">
-    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=sw10pa&data=repositories,stars,commits&theme=nautilus">
+    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=sw10pa&data=repositories,commits&theme=nautilus">
 </a>
 
 <p align="center">
