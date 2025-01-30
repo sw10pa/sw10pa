@@ -1,4 +1,4 @@
-<a href="https://github.com/RomaLetodiani">
+<a href="https://github.com/sw10pa">
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=sw10pa&data=repositories,commits&theme=nautilus">
 </a>
 
@@ -27,9 +27,9 @@
           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sw10pa/sw10pa/output/github-contribution-grid-snake.svg">
         </picture>
 <!--             <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLetodiani&layout=compact&theme=tokyonight&langs_count=14"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sw10pa&layout=compact&theme=tokyonight&langs_count=14"/>
             <br/> -->
 </p>
 
-### [![LeetCode user romaLetodiani](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FromaLetodiani&logo=leetcode&logoColor=yellow)](https://leetcode.com/sw10pa/)
+### [![LeetCode user sw10pa](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsw10pa&logo=leetcode&logoColor=yellow)](https://leetcode.com/sw10pa/)
     
